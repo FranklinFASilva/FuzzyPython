@@ -1,1 +1,3 @@
 # FuzzyPython
+
+Esse código mostra um problema, na linguagem de programação Python usando a lógica Fuzzy (inteligência artificial), resolvido da forma mais simples possível. O objetivo desse código é determinar o valor da intensidade que deve ser aplicada na prática da atividade física. Por isso, foram utilizadas 5 variáveis de entrada quais são: peso, tempo disponível, frequência, adesão e condicionamento físico, que quando combinadas obtemos como resultado um valor preciso (número real) da variável de saída intensidade. As variáveis foram separadas em conjuntos, assim como pede a lógica Fuzzy, assumindo valores linguísticos baixa, baixa/média, média, média/alta, alta.
